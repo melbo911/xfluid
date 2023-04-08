@@ -1,7 +1,7 @@
 
 # Xfluid
 
-Xfluid is a FPS optimizer script for the X-Plane flight simulator. It can be used to keep the FPS count above a required limit. Default FPS liit is 30 but can be changed by editing the script. 
+Xfluid is a FPS optimizer script for the X-Plane flight simulator. It can be used to keep the FPS count above a required limit. Default FPS limit is set to 30 but can be changed by editing the script. 
 
 # showFPS
 
@@ -11,3 +11,4 @@ showFPS is a popup displying current FPS. Works in 2D and VR. It also shows addi
 
 Both scipts require the FlyWithLua NG plugin being installed.
 
+Both scripts work with X-Plane 11 and X-Plane 12.
