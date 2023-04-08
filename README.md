@@ -9,6 +9,6 @@ showFPS is a popup displying current FPS. Works in 2D and VR. It also shows addi
 
 # Requirements
 
-Both scipts require the FlyWithLua NG plugin being installed.
+Both scripts require the FlyWithLua NG plugin being installed.
 
 Both scripts work with X-Plane 11 and X-Plane 12.
